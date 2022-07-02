@@ -1,14 +1,10 @@
-{
-    "autoLog":"1",
-    "bangdingShouji":"0",
-    "needAlert":"0",
-    "showErrorCode":"1",
-    "switchForGslb":"1",
-    "switchForH5Gslb":"0",
-    "switchForControyCode":"1",
-    "switchForHKLBSEnable":"1"
+{ 
+"autoLog":"1",
+"bangdingShouji":"0", 
+"needAlert":"0", 
+"showErrorCode":"1", 
+"gslb":"1", 
+"webGslb":"0",
+"controCode":"1",
+"lbsEnable":"1"
 }
-
-### 一  标题1
-#### 2 标题2
-- 123
